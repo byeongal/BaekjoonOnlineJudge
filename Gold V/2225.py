@@ -1,7 +1,7 @@
 '''
 문제: 합분해(https://www.acmicpc.net/problem/2225)
 분류: 다이나믹 프로그래밍
-시간 복잡도: O(n*k)
+시간 복잡도: O(n*n*k)
 '''
 from typing import List
 
